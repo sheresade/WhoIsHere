@@ -1,0 +1,6 @@
+framework module Pods_WhoisHere {
+  umbrella header "Pods-WhoisHere-umbrella.h"
+
+  export *
+  module * { export * }
+}
